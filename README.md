@@ -20,11 +20,11 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/i41HwMP" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/KzYm6bF7/20220916-205450.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/a/Sp1U0t0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/jdyCQsjC/DSC-0212-remastered.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
@@ -40,7 +40,7 @@ Wait for process to complete (may take some time):  <br/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/FbF47c8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
